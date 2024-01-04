@@ -1,0 +1,5 @@
+4-Jan-2024
+~~~~~~~~~~
+
+selenium is a UI automation tool, mostly used as it is free of cost. Used so that it can give you instant feedback
+about the fucntionality for the given changes in the new build.
